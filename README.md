@@ -1,5 +1,5 @@
 # Projeto básico de card profile
-Projeto simples baseado em card profile de um projeto do Frontend Mentor
+Projeto simples apenas mostrando o visual de um card
 
 ## Tecnologias usadas
 - HTML
